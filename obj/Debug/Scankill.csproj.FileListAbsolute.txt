@@ -1,0 +1,8 @@
+C:\dev\scankill\Scankill\bin\Debug\Scankill.exe.config
+C:\dev\scankill\Scankill\bin\Debug\Scankill.exe
+C:\dev\scankill\Scankill\bin\Debug\Scankill.pdb
+C:\dev\scankill\Scankill\obj\Debug\Scankill.csproj.AssemblyReference.cache
+C:\dev\scankill\Scankill\obj\Debug\Scankill.csproj.SuggestedBindingRedirects.cache
+C:\dev\scankill\Scankill\obj\Debug\Scankill.csproj.CoreCompileInputs.cache
+C:\dev\scankill\Scankill\obj\Debug\Scankill.exe
+C:\dev\scankill\Scankill\obj\Debug\Scankill.pdb
